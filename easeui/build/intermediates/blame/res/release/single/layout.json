@@ -80,12 +80,12 @@
         "source": "D:\\MyApplication2\\easeui\\res\\layout\\ease_row_sent_video.xml"
     },
     {
-        "merged": "D:\\MyApplication2\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
-        "source": "D:\\MyApplication2\\easeui\\res\\layout\\ease_row_received_voice_call.xml"
-    },
-    {
         "merged": "D:\\MyApplication2\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_baidumap.xml",
         "source": "D:\\MyApplication2\\easeui\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "D:\\MyApplication2\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
+        "source": "D:\\MyApplication2\\easeui\\res\\layout\\ease_row_received_voice_call.xml"
     },
     {
         "merged": "D:\\MyApplication2\\easeui\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice_call.xml",
